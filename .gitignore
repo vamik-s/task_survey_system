@@ -1,0 +1,26 @@
+# Compiled class files
+target/
+
+# Compiled JSP files
+*.jsp
+
+# Maven build directory
+mvn_lib/
+mvnw
+mvnw.cmd
+
+# IDE files (Eclipse, IntelliJ, etc.)
+.settings/
+.classpath
+.project
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
